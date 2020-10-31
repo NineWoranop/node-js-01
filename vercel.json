@@ -5,5 +5,14 @@
             "src": "index.js",
             "use": "@now/node-server"
         }
+    ],
+    "routes": [
+        {
+            "src": "/api/users",
+            "dest": "/index.js",
+            "methods": [
+                "GET"
+            ]
+        }
     ]
 }
