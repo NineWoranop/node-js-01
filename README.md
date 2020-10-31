@@ -1,6 +1,6 @@
 # node-js-01
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A ServerLess Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started on Vercel with Node.js].
 
@@ -19,6 +19,4 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Deploying to Vercel
 
-```
-$ vercel --prod
-```
+Please visit [document](https://vercel.com/docs/runtimes#official-runtimes/node-js) on Vercel website
